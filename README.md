@@ -16,4 +16,4 @@
    - 代码：https://github.com/SwinTransformer/Video-Swin-Transformer
    - 初始化权重：https://github.com/SwinTransformer/storage/releases/download/v1.0.4/swin_tiny_patch244_window877_kinetics400_1k.pth
 7. **STA-DRN**
-   - 代码：https://github.com/divertingPan/STA-DRN}
+   - 代码：https://github.com/divertingPan/STA-DRN
