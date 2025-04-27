@@ -1,1 +1,19 @@
-# -
+下面是本人硕士毕业论文所采用对比模型的参考代码链接和初始化权重链接：
+1. **ResNet-50，EfficientNet，MobileNetV2**
+   - 代码：https://github.com/okankop/Efficient-3DCNNs
+2. **I3D**
+   - 代码：https://github.com/piergiaj/pytorch-i3d
+3. **TSM**
+   - 代码：https://github.com/mit-han-lab/temporal-shift-module
+   - 初始化权重：https://hanlab18.mit.edu/projects/tsm/models/TSM_kinetics_RGB_resnet50_shift8_blockres_avg_segment8_e100_dense.pth
+4. **TANet**
+   - 代码：https://github.com/liu-zhy/temporal-adaptive-module
+   - 初始化权重：https://drive.google.com/drive/folders/1sFfmP3yrfc7IzRshEELOby7-aEoymIFL
+5. **Uniformer**
+   - 代码：https://github.com/Sense-X/UniFormer
+   - 初始化权重：https://drive.google.com/file/d/1DtdX-keSB-RkH23KqtQH36IMOUmol1kw/view
+6. **Swin-T**
+   - 代码：https://github.com/SwinTransformer/Video-Swin-Transformer
+   - 初始化权重：https://github.com/SwinTransformer/storage/releases/download/v1.0.4/swin_tiny_patch244_window877_kinetics400_1k.pth
+7. **STA-DRN**
+   - 代码：https://github.com/divertingPan/STA-DRN}
